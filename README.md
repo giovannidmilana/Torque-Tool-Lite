@@ -11,7 +11,7 @@ Designed for seamless integration with MES/WMS systems, standard-work enforcemen
 
 📖 Full Guide & Explanation
 A complete instructional walkthrough of the code, design intuitions, and usage examples can be found here:
-👉 [Open Protocol Python Client for Atlas Copco Torque Tools]([building-a-python-client-for-atlas-copco-open-protocol-torque-tools](https://www.pensare.io/articles/building-a-python-client-for-atlas-copco-open-protocol-torque-tools/))
+👉 [building-a-python-client-for-atlas-copco-open-protocol-torque-tools](https://www.pensare.io/articles/building-a-python-client-for-atlas-copco-open-protocol-torque-tools/)
 
 ✨ Key Features
 - Lightweight and easy to embed in existing Python projects
